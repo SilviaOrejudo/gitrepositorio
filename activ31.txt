@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Línea actividad 3.1
 Otra línea en actividad 3.1
 Nueva línea desde master
 Otra línea desde master
+=======
+Activida 3.1
+Línea 1
+Línea 2
+Nueva línea 1
+Nueva línea 2
+Otra línea
+>>>>>>> actividad3
